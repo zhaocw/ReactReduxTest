@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+static
+dist
+sass/_sprite.scss
+../npm-debug.log
+*.bak
